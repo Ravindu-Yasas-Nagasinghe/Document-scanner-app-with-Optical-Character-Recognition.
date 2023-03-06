@@ -9,7 +9,7 @@ Libraries used for above processes are:
 1. Google's ML Kit Text Recognition API
 2. ArthurHub/Android-Image-Cropper
 
-Given below is a test scenario of the app developed. Here we scan the document, crop the relevant part for OCR and then display the text in another activity. This app can be further improved to use this captured text in some process.
+Given below is a test scenario of the app developed. Here we scan the document, crop the relevant part for OCR and then display the text in another activity. This app can be further improved to use this captured text in some other process.
 
 ### Test 1
 
